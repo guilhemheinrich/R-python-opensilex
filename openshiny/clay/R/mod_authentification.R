@@ -1,3 +1,4 @@
+
 library(opensilexClientToolsR)
 
 #' authentification UI Function
@@ -26,59 +27,43 @@ mod_authentification_ui <- function(id) {
 mod_authentification_server <- function(id) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
+    reactive({ input$user })
+    reactive({ input$password })
+    reactive({ input$host })
     attempt_connect <- function() {
-      tryCatch({
-        # Just to highlight: if you want to use more than one
-        # R expression in the "try" part then you'll have to
-        # use curly brackets.
-        # 'tryCatch()' will return the last evaluated expression
-        # in case the "try" part was completed successfully
-        
-        
-        # The return value of `readLines()` is the actual value
-        # that will be returned in case there is no condition
-        # (e.g. warning or error).
-        # You don't need to state the return value via `return()` as code
-        # in the "try" part is not wrapped inside a function (unlike that
-        # for the condition handlers for warnings and error below)
-        connection_result <-
-          capture.output(
-            connectToOpenSILEX(
-              identifier = input$user,
-              password = input$password,
-              url = input$host
-            )
-          )
+      print('Connecting...')
+      print(paste0('User: ', input$user))
+      print(paste0('url: ', input$host))
+      result <- evaluate::try_capture_stack(capture.output(connectToOpenSILEX(
+        identifier = input$user,
+        password = input$password,
+        url = input$host
+      )), environment())
+      if (!is.null(result) && 'message' %in% names(result)) {
         output$terminal <- renderPrint({
-          # print(connection_result)
-          print(connection_result[1])
+          print(result$message)
         })
-        return(connection_result[2])
-        
-      },
-      error = function(cond) {
+      } else {
         output$terminal <- renderPrint({
-          print(cond)
+          print(result)
         })
-      },
-      warning = function(cond) {
-        output$terminal <- renderPrint({
-          print(cond)
-        })
-      },
-      finally = {
-        # NOTE:
-        # Here goes everything that should be executed at the end,
-        # regardless of success or error.
-        # If you want more than one expression to be executed, then you
-        # need to wrap them in curly brackets ({...}); otherwise you could
-        # just have written 'finally=<expression>'
-      })
+      }
+
     }
+    connect <- reactive({
+      attempt_connect()
+    })
+    
+    # out <- reactiveValues(connection_result = NULL, connect_function = attempt_connect)
     observeEvent(input$test, {
       attempt_connect()
     })
-    return(attempt_connect)
+    
+    return(list(
+      connect = connect,
+      user = reactive(input$user),
+      host = reactive(input$host)
+      ))
   })
 }
 

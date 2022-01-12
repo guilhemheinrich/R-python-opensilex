@@ -21,6 +21,8 @@ usethis::use_dev_package("opensilexClientToolsR", remote="OpenSILEX/opensilexCli
 ## Create a module infrastructure in R/
 golem::add_module( name = "authentification" )
 golem::add_module( name = "experiment_explorer" )
+golem::add_module( name = "variable_explorer")
+golem::add_module( name = "scientific_object_explorer")
 
 ## Add helper functions ----
 ## Creates fct_* and utils_*

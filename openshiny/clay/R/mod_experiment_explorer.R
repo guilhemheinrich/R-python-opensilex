@@ -1,4 +1,6 @@
 library(opensilexClientToolsR)
+
+
 #' experiment_explorer UI Function
 #'
 #' @description A shiny Module.
@@ -10,27 +12,44 @@ library(opensilexClientToolsR)
 #' @importFrom shiny NS tagList
 mod_experiment_explorer_ui <- function(id) {
   ns <- NS(id)
-  tagList(uiOutput(NS(id, "choix_so")))
+
+  tagList(
+    uiOutput(NS(id, "choix_experiment"))
+  )
 }
 
 #' experiment_explorer Server Functions
 #'
 #' @noRd
 mod_experiment_explorer_server <-
-  function(id, authentification_module) {
+  function(id, authentification_module, ...) {
     moduleServer(id, function(input, output, session) {
       ns <- session$ns
-      authentification_module()
-      output$choix_so <- renderUI({
+      reactive({
+        authentification_module$connect()
+      })
+      output$choix_experiment <- renderUI({
+        authentification_module$connect()
         experiments_api <- ExperimentsApi$new()
         experiments <- experiments_api$search_experiments()$data
         experiments_df <- EnvironmentList_to_dataframe(experiments)
         experimentList <- setNames(experiments_df$uri, experiments_df$name)
         
-        selectInput(inputId = "choix_so",
+        input_parameters <- list(...)
+        label <- 'Choose an experiment:'
+        if (isTruthy(input_parameters$multiple)) {
+          label <- 'Choose one or more experiments:'
+        }
+        
+        selectInput(inputId = "choix_experiment",
                     label = "Choose an experiment:",
-                    choices = experimentList)
+                    choices = experimentList,
+                    ...)
       })
+      return(list(
+        selected = reactive(input$choix_experiment),
+        choices = reactive(experimentList)
+        ))
     })
   }
 
