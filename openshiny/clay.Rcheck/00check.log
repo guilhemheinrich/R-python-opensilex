@@ -1,0 +1,143 @@
+* using log directory ‘/home/heinrich/code/R-python-opensilex/openshiny/clay.Rcheck’
+* using R version 3.6.1 (2019-07-05)
+* using platform: x86_64-conda_cos6-linux-gnu (64-bit)
+* using session charset: UTF-8
+* using options ‘--no-manual --as-cran’
+* checking for file ‘clay/DESCRIPTION’ ... OK
+* this is package ‘clay’ version ‘0.0.0.9000’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... NOTE
+Package suggested but not available for checking: ‘covr’
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking serialization versions ... OK
+* checking whether package ‘clay’ can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking for future file timestamps ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Malformed Description field: should contain one or more complete sentences.
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking dependencies in R code ... WARNING
+'::' or ':::' imports not declared from:
+  ‘evaluate’ ‘rlang’
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... NOTE
+mod_annotation_explorer_server : <anonymous>: no visible binding for
+  global variable ‘AnnotationsApi’
+mod_categorie_explorer_server : <anonymous>: no visible binding for
+  global variable ‘FactorsApi’
+mod_data_explorer_server : <anonymous>: no visible binding for global
+  variable ‘DataApi’
+mod_device_explorer_server : <anonymous>: no visible binding for global
+  variable ‘DevicesApi’
+mod_document_explorer_server : <anonymous>: no visible binding for
+  global variable ‘DocumentsApi’
+mod_event_explorer_server : <anonymous>: no visible binding for global
+  variable ‘EventsApi’
+mod_experiment_explorer_server : <anonymous>: no visible binding for
+  global variable ‘ExperimentsApi’
+mod_facilitie_explorer_server : <anonymous>: no visible binding for
+  global variable ‘OrganisationsApi’
+mod_factor_explorer_server : <anonymous>: no visible binding for global
+  variable ‘FactorsApi’
+mod_factor_level_explorer_server : <anonymous>: no visible binding for
+  global variable ‘FactorsApi’
+mod_germplasm_explorer_server : <anonymous>: no visible binding for
+  global variable ‘GermplasmApi’
+mod_group_explorer_server : <anonymous>: no visible binding for global
+  variable ‘SecurityApi’
+mod_position_explorer_server : <anonymous>: no visible binding for
+  global variable ‘PositionsApi’
+mod_profile_explorer_server : <anonymous>: no visible binding for
+  global variable ‘SecurityApi’
+mod_project_explorer_server : <anonymous>: no visible binding for
+  global variable ‘ProjectsApi’
+mod_scientific_object_explorer_server : <anonymous>: no visible binding
+  for global variable ‘ScientificObjectsApi’
+mod_specie_explorer_server : <anonymous>: no visible binding for global
+  variable ‘SpeciesApi’
+mod_subclasse_explorer_server : <anonymous>: no visible binding for
+  global variable ‘OntologyApi’
+mod_tree_explorer_server : <anonymous>: no visible binding for global
+  variable ‘OrganisationsApi’
+mod_user_explorer_server : <anonymous>: no visible binding for global
+  variable ‘SecurityApi’
+mod_variable_detail_explorer_server : <anonymous>: no visible binding
+  for global variable ‘VariablesApi’
+mod_variable_explorer_server : <anonymous>: no visible binding for
+  global variable ‘VariablesApi’
+mod_variable_group_explorer_server : <anonymous>: no visible binding
+  for global variable ‘VariablesApi’
+Undefined global functions or variables:
+  AnnotationsApi DataApi DevicesApi DocumentsApi EventsApi
+  ExperimentsApi FactorsApi GermplasmApi OntologyApi OrganisationsApi
+  PositionsApi ProjectsApi ScientificObjectsApi SecurityApi SpeciesApi
+  VariablesApi
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd line widths ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... WARNING
+Undocumented code objects:
+  ‘mod_annotation_explorer_server’ ‘mod_annotation_explorer_ui’
+  ‘mod_authentification_server’ ‘mod_authentification_ui’
+  ‘mod_categorie_explorer_server’ ‘mod_categorie_explorer_ui’
+  ‘mod_data_explorer_server’ ‘mod_data_explorer_ui’
+  ‘mod_device_explorer_server’ ‘mod_device_explorer_ui’
+  ‘mod_document_explorer_server’ ‘mod_document_explorer_ui’
+  ‘mod_event_explorer_server’ ‘mod_event_explorer_ui’
+  ‘mod_experiment_explorer_server’ ‘mod_experiment_explorer_ui’
+  ‘mod_facilitie_explorer_server’ ‘mod_facilitie_explorer_ui’
+  ‘mod_factor_explorer_server’ ‘mod_factor_explorer_ui’
+  ‘mod_factor_level_explorer_server’ ‘mod_factor_level_explorer_ui’
+  ‘mod_germplasm_explorer_server’ ‘mod_germplasm_explorer_ui’
+  ‘mod_group_explorer_server’ ‘mod_group_explorer_ui’
+  ‘mod_position_explorer_server’ ‘mod_position_explorer_ui’
+  ‘mod_profile_explorer_server’ ‘mod_profile_explorer_ui’
+  ‘mod_project_explorer_server’ ‘mod_project_explorer_ui’
+  ‘mod_scientific_object_explorer_server’
+  ‘mod_scientific_object_explorer_ui’ ‘mod_specie_explorer_server’
+  ‘mod_specie_explorer_ui’ ‘mod_subclasse_explorer_server’
+  ‘mod_subclasse_explorer_ui’ ‘mod_tree_explorer_server’
+  ‘mod_tree_explorer_ui’ ‘mod_user_explorer_server’
+  ‘mod_user_explorer_ui’ ‘mod_variable_detail_explorer_server’
+  ‘mod_variable_detail_explorer_ui’ ‘mod_variable_explorer_server’
+  ‘mod_variable_explorer_ui’ ‘mod_variable_group_explorer_server’
+  ‘mod_variable_group_explorer_ui’
+All user-level objects in a package should have documentation entries.
+See chapter ‘Writing R documentation files’ in the ‘Writing R
+Extensions’ manual.
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking examples ... NONE
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... OK
+  Running ‘spelling.R’
+  Comparing ‘spelling.Rout’ to ‘spelling.Rout.save’ ...6,9d5
+< Potential spelling errors:
+<   WORD      FOUND IN
+< Codecov   README.md:11
+< intract   README.md:14
+  Running ‘testthat.R’
+* DONE
+Status: 2 WARNINGs, 3 NOTEs

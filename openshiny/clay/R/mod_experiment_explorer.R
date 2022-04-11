@@ -1,60 +1,108 @@
-library(opensilexClientToolsR)
-
-
 #' experiment_explorer UI Function
 #'
-#' @description A shiny Module.
+#' @description A shiny::selectInput wrapper around ExperimentsApi.search_experiments (\code{\link[opensilexClientToolsR:ExperimentsApi]{ search_experiments }})
 #'
 #' @param id,input,output,session Internal parameters for {shiny}.
-#'
-#' @noRd
-#'
-#' @importFrom shiny NS tagList
-mod_experiment_explorer_ui <- function(id) {
+#' @export
+#' @param id Environment id of the module
+#' @importFrom shiny NS tagList uiOutput
+mod_experiment_explorer_ui <- function(id){
   ns <- NS(id)
-
   tagList(
-    uiOutput(NS(id, "choix_experiment"))
+    shiny::uiOutput(NS(id, "choix"))
   )
 }
-
+    
 #' experiment_explorer Server Functions
 #'
-#' @noRd
-mod_experiment_explorer_server <-
-  function(id, authentification_module, ...) {
-    moduleServer(id, function(input, output, session) {
-      ns <- session$ns
-      reactive({
-        authentification_module$connect()
-      })
-      output$choix_experiment <- renderUI({
-        authentification_module$connect()
-        experiments_api <- ExperimentsApi$new()
-        experiments <- experiments_api$search_experiments()$data
-        experiments_df <- EnvironmentList_to_dataframe(experiments)
-        experimentList <- setNames(experiments_df$uri, experiments_df$name)
-        
-        input_parameters <- list(...)
-        label <- 'Choose an experiment:'
-        if (isTruthy(input_parameters$multiple)) {
-          label <- 'Choose one or more experiments:'
-        }
-        
-        selectInput(inputId = "choix_experiment",
-                    label = "Choose an experiment:",
-                    choices = experimentList,
-                    ...)
-      })
-      return(list(
-        selected = reactive(input$choix_experiment),
-        choices = reactive(experimentList)
-        ))
+#' @export
+#' @param id Internal parameter for {shiny}.
+#' @param authentification_module Authentification module from this package (\code{\link{mod_authentification_server}})
+#' @param api_function_options List of options to pass to ExperimentsApi.search_experiments from opensilexClientToolsR package (\code{\link[opensilexClientToolsR:ExperimentsApi]{ search_experiments }})
+#' @param widget_options List of options to pass to \code{\link[shiny]{selectInput}}
+#' @return A named list with various reactive values
+#' \describe{
+#'  \item{input}{The module input, to be used for binding events}
+#'  \item{options}{The options used to call ExperimentsApi.search_experiments }
+#'  \item{selected}{The selection of the shiny::selectInput widget }
+#'  \item{choices}{A named list containing the selection choices} 
+#'  \item{result_df}{A dataframe containing the results of ExperimentsApi.search_experiments call}
+#' }
+#' @importFrom shiny reactive renderUI
+#' @importFrom stats setNames
+mod_experiment_explorer_server <-   function(id,
+                                           authentification_module,
+                                           api_function_options = list(),
+                                           widget_options = list()) {
+  moduleServer(id, function(input, output, session) {
+    ns <- session$ns
+    shiny::reactive({
+      authentification_module$connect()
     })
-  }
+    
+    # Function to call when wanted actual values, in a reactive context
+    function_options_reactive <- compute_reactive_in_list(api_function_options)
+    widget_options_reactive <- compute_reactive_in_list(widget_options)
 
-## To be copied in the UI
-# mod_experiment_explorer_ui("experiment_explorer_ui_1")
+    itemList <- list()
 
-## To be copied in the server
-# mod_experiment_explorer_server("experiment_explorer_ui_1")
+    output$choix <- shiny::renderUI({
+      # Compute reactive
+      authentification_module$connect()
+      final_options <<- function_options_reactive()
+      # Custom code
+      experimentsApi <- ExperimentsApi$new()
+      result <-
+        do.call(experimentsApi$search_experiments, final_options)$data
+      result_df <<-
+        EnvironmentList_to_dataframe(result)
+      itemList <<-
+        stats::setNames(result_df$uri, result_df$name)
+      
+      label <- 'Choose a experiment:'
+      final_widget_options <- widget_options_reactive()
+      final_widget_options[['inputId']] = ns("choix")
+
+      # If the user specifies thoses values, we keep item
+      # This allow easy use of the module by hiding its UI
+      if (!('label' %in% names(final_widget_options))) {
+        final_widget_options[['label']] = label
+      }
+      if (!('choices' %in% names(final_widget_options))) {
+        final_widget_options[['choices']] = itemList
+      }
+      if (isTruthy(final_widget_options$multiple)) {
+        label <- 'Choose one or more experiments:'
+      }
+      do.call(shiny::selectInput, final_widget_options)
+    })
+    
+    reactiveitemList <- shiny::reactive({
+      itemList
+    })
+    
+    selected <- shiny::reactive({
+      if (length(itemList) > 0 &&
+          match(input$choix, itemList) != 0) {
+          out <- input$choix
+        } else {
+          out <- NA
+        }
+        return(out)
+    })
+
+    return(
+      list(
+        input = input,
+        options = shiny::reactive({
+          final_options
+        }),
+        selected = selected,
+        choices = reactiveitemList,
+        result_df = shiny::reactive({
+          result_df
+        })
+      )
+    )
+  })
+}

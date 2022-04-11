@@ -1,0 +1,11 @@
+EnvironmentList_to_dataframe
+                        Extract the given name from all the environment
+                        in the list, and return it as a data.frame. If
+                        no names are given, extract all the primitive
+                        bounded variable
+extract_from_environment
+                        Extract the given names field from the
+                        environment as a vector.
+get_attributes          Return the primitive attributes of an
+                        environment
+run_app                 Run the Shiny Application

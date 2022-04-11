@@ -1,10 +1,10 @@
-#' @author Heinrich Guilhem, \email{guilhem.heinrich@gmail.fr}
 
 
 
 
-#' Extract the given names field from the environment as a vector.
-#' 
+#' Transform an environment to a vector
+#' @description Extract the given names field from the environment as a vector.
+#' @export
 #' @param environment An environment
 #' @param ... A list of name
 #' @return The vector build upon the given environment's name subset.
@@ -13,8 +13,9 @@ extract_from_environment <- function(environment, ...) {
   return(unlist(mget(all_keys, envir = environment)))
 }
 
-#' Extract the given name from all the environment in the list, and return it as a data.frame. If no names are given, extract all the primitive bounded variable
-#' 
+#' Transform an homgenous environment list to data.frame
+#' @description Extract the given name from all the environment in the list, and return it as a data.frame. If no names are given, extract all the primitive bounded variable
+#' @export
 #' @param environmentList An environment list
 #' @param ... A list of name
 #' @return The dataset build upon the given environment's name subset. If omitted, this subset is build by all names referencing a primitive datatype
@@ -28,18 +29,30 @@ EnvironmentList_to_dataframe <- function(environmentList, ...) {
   return(data.frame(t(result)))
 }
 
+# @detail The considered primitive types are
+#    "logical" | "character" | "numeric" | "complex" | "integer" | "double"
 #' Return the primitive attributes of an environment
 #' 
-#' @detail The considered primitive types are
-#'    "logical" | "character" | "numeric" | "complex" | "integer"
 #'
+#' @export
 #' @param environment An environment
 #' @return The name's subset of the environment primitive variable's type 
 get_attributes <- function(environment) {
   all_properties <- ls(envir = environment)
   all_types <- sapply(all_properties, (function (prop) typeof(get(prop, envir = environment))))
-  all_attributes <- all_properties[all_types=="logical" | all_types=="character" | all_types=="numeric" | all_types=="complex" | all_types=="integer" ]
+  all_attributes <- all_properties[all_types=="logical" | all_types=="character" | all_types=="numeric" | all_types=="complex" | all_types=="integer" | all_types=="double" ]
   return(all_attributes)
 }
 
-
+splatify <- function(named_list) {
+  final_list <- list()
+  for (index in 1:length(named_list)) {
+    generic_name <- names(named_list)[index]
+    for (item in named_list[[index]]) {
+      to_add <- list(item)
+      names(to_add) <- generic_name
+      final_list <- append(final_list, to_add)
+    }
+  }
+  return(final_list)
+}

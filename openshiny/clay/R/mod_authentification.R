@@ -1,74 +1,100 @@
-
 library(opensilexClientToolsR)
 
 #' authentification UI Function
 #'
-#' @description A shiny Module.
-#'
+#' @description The UI part of the module handling the connection to an opensilex instance. Required for all other module of this package.
 #' @param id,input,output,session Internal parameters for {shiny}.
 #'
-#' @noRd
-#'
-#' @importFrom shiny NS tagList
+#' @export
+#' @importFrom shiny NS tagList textInput passwordInput actionButton verbatimTextOutput
 mod_authentification_ui <- function(id) {
   ns <- NS(id)
   tagList(
-    textInput(NS(id, "host"), "Host", value = "http://138.102.159.36:8081/rest"),
-    textInput(NS(id, "user"), "Username", value = "admin@opensilex.org"),
-    passwordInput(NS(id, "password"), "Password",  value = "admin"),
-    actionButton(NS(id, "test"), "Test connection"),
-    verbatimTextOutput(NS(id, "terminal"))
+    shiny::textInput(NS(id, "host"), "Host", value = "http://138.102.159.36:8081/rest"),
+    shiny::textInput(NS(id, "user"), "Username", value = "admin@opensilex.org"),
+    shiny::passwordInput(NS(id, "password"), "Password",  value = "admin"),
+    shiny::actionButton(NS(id, "test"), "Test connection"),
+    shiny::verbatimTextOutput(NS(id, "terminal"))
   )
 }
 
 #' authentification Server Functions
-#'
-#' @noRd
+#' 
+#' @description The server part of the module handling the connection to an opensilex instance. Required for all other module of this package.
+#' @param id Internal parameter for {shiny}.
+#' @return A named list with various reactive values
+#' \describe{
+#'  \item{connect}{A function handling the connection to an Opensilex WebAPI}
+#'  \item{user}{The currently connected user}
+#'  \item{password}{The current password}
+#'  \item{host}{The current opensilex WebAPI host address}
+#' }
+#' @export
+#' @importFrom shiny renderPrint reactive observeEvent
+#' @importFrom evaluate try_capture_stack evaluate
+#' @importFrom utils capture.output
 mod_authentification_server <- function(id) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
-    reactive({ input$user })
-    reactive({ input$password })
-    reactive({ input$host })
     attempt_connect <- function() {
       print('Connecting...')
       print(paste0('User: ', input$user))
       print(paste0('url: ', input$host))
-      result <- evaluate::try_capture_stack(capture.output(connectToOpenSILEX(
+      result <- evaluate::try_capture_stack(utils::capture.output(opensilexClientToolsR::connectToOpenSILEX(
         identifier = input$user,
         password = input$password,
         url = input$host
       )), environment())
       if (!is.null(result) && 'message' %in% names(result)) {
-        output$terminal <- renderPrint({
+        print('error')
+        output$terminal <- shiny::renderPrint({
           print(result$message)
         })
       } else {
-        output$terminal <- renderPrint({
+        print('all ok')
+        output$terminal <- shiny::renderPrint({
           print(result)
         })
       }
-
+      evaluate::evaluate(opensilexClientToolsR::connectToOpenSILEX(
+                identifier = input$user,
+                password = input$password,
+                url = input$host
+              ), environment())
+      print('All done')
     }
-    connect <- reactive({
+    connect <- shiny::reactive({
       attempt_connect()
     })
-    
-    # out <- reactiveValues(connection_result = NULL, connect_function = attempt_connect)
-    observeEvent(input$test, {
-      attempt_connect()
+    shiny::observeEvent(input$test, {
+      print('Connecting...')
+      print(paste0('User: ', input$user))
+      print(paste0('url: ', input$host))
+      result <- evaluate::try_capture_stack(capture.output(opensilexClientToolsR::connectToOpenSILEX(
+        identifier = input$user,
+        password = input$password,
+        url = input$host
+      )), environment())
+      if (!is.null(result) && 'message' %in% names(result)) {
+        print('error')
+        output$terminal <- shiny::renderPrint({
+          print(result$message)
+        })
+      } else {
+        print('all ok')
+        output$terminal <- shiny::renderPrint({
+          print(result)
+        })
+      }
+      print('All done')
     })
-    
+
     return(list(
       connect = connect,
-      user = reactive(input$user),
-      host = reactive(input$host)
+      user = shiny::reactive(input$user),
+      password = shiny::reactive(input$password),
+      host = shiny::reactive(input$host)
       ))
   })
 }
 
-## To be copied in the UI
-# mod_authentification_ui("authentification_ui_1")
-
-## To be copied in the server
-# mod_authentification_server("authentification_ui_1")

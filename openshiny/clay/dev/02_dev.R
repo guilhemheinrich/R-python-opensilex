@@ -15,6 +15,7 @@
 
 ## Dependencies ----
 ## Add one line by package you want to add as dependency
+usethis::use_dev_package("opensilexWSClientR", remote="OpenSILEX/opensilex-ws-client-R")
 usethis::use_dev_package("opensilexClientToolsR", remote="OpenSILEX/opensilexClientToolsR")
 
 ## Add modules ----
@@ -23,7 +24,10 @@ golem::add_module( name = "authentification" )
 golem::add_module( name = "experiment_explorer" )
 golem::add_module( name = "variable_explorer")
 golem::add_module( name = "scientific_object_explorer")
+golem::add_module( name = "specie_explorer")
+golem::add_module( name = "event_explorer")
 
+golem::add_module( name = "TEST")
 ## Add helper functions ----
 ## Creates fct_* and utils_*
 golem::add_fct( "helpers" ) 

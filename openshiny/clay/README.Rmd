@@ -16,9 +16,10 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test coverage](https://codecov.io/gh/guilhemheinrich/R-python-opensilex/branch/master/graph/badge.svg)](https://app.codecov.io/gh/guilhemheinrich/R-python-opensilex?branch=master)
 <!-- badges: end -->
 
-The goal of clay is to ...
+The goal of clay is to provide several easy to use shiny module implementation to intract with an opensilex instance.
 
 ## Installation
 
@@ -26,7 +27,7 @@ You can install the development version of clay from [GitHub](https://github.com
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("guilhemheinrich/R-python-opensilex")
+devtools::install_github("guilhemheinrich/opensilex-clay")
 ```
 ## Example
 

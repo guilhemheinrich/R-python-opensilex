@@ -1,0 +1,37 @@
+
+R version 3.6.1 (2019-07-05) -- "Action of the Toes"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-conda_cos6-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(testthat)
+> library(clay)
+> 
+> test_check("clay")
+══ Skipped tests ═══════════════════════════════════════════════════════════════
+• interactive() is not TRUE (1)
+
+══ Warnings ════════════════════════════════════════════════════════════════════
+── [1m[35mWarning[39m (test-golem-recommended.R:13:3): app server[22m ─────────────────────────
+`expect_is()` was deprecated in the 3rd edition.
+i Use `expect_type()`, `expect_s3_class()`, or `expect_s4_class()` instead
+[1mBacktrace:[22m
+[90m 1. [39mtestthat::expect_is(server, "function") [90mtest-golem-recommended.R:13:2[39m
+[90m 2. [39mtestthat:::edition_deprecate(3, "expect_is()", "Use `expect_type()`, `expect_s3_class()`, or `expect_s4_class()` instead")
+
+[ FAIL 0 | [35mWARN[39m 1 | [34mSKIP[39m 1 | [32mPASS[39m 6 ]
+> 
+> proc.time()
+   user  system elapsed 
+  0.893   0.097   0.880 

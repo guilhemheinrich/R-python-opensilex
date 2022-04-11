@@ -2,7 +2,7 @@
 % Please edit documentation in R/r6_to_dataframe.R
 \name{EnvironmentList_to_dataframe}
 \alias{EnvironmentList_to_dataframe}
-\title{Extract the given name from all the environment in the list, and return it as a data.frame. If no names are given, extract all the primitive bounded variable}
+\title{Transform an homgenous environment list to data.frame}
 \usage{
 EnvironmentList_to_dataframe(environmentList, ...)
 }
