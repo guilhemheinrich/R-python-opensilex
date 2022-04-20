@@ -5,27 +5,39 @@ library(opensilexClientToolsR)
 build_retryer <-  function(url, user, password) {
   retry_once <- function(func, ...) {
     args = list(...)
-    message("user", user)
+    final_call <- NULL
     # From <https://stackoverflow.com/a/12195574>
     out <- tryCatch({
-      message("right here")
       opensilexClientToolsR::connectToOpenSILEX(identifier = user,
-                                     url = url,
-                                     password = password)
+                                                url = url,
+                                                password = password)
       
-      return(do.call(func, args))
+      final_call <- do.call(func, args)
+      return(final_call)
     },
     error = function(cond) {
-      message("Here's the original error message:")
-      message(cond)
-      # Choose a return value in case of error
-      return(NA)
-    },
-    warning = function(cond) {
-      message("Here's the original warning message:")
-      message(cond)
-      # Choose a return value in case of warning
-      return(NULL)
+      # Try once more
+      tryCatch({
+        opensilexClientToolsR::connectToOpenSILEX(identifier = user,
+                                                  url = url,
+                                                  password = password)
+        
+        final_call <- do.call(func, args)
+        message("there")
+        return(final_call)
+      },
+      error = function(cond) {
+        message("Here's the original error message:")
+        message(cond)
+        # Choose a return value in case of error
+        return(NA)
+      },
+      warning = function(cond) {
+        message("Here's the original warning message:")
+        message(cond)
+        # Choose a return value in case of warning
+        return(NULL)
+      })
     },
     finally = {
       # NOTE:
@@ -34,8 +46,12 @@ build_retryer <-  function(url, user, password) {
       # If you want more than one expression to be executed, then you
       # need to wrap them in curly brackets ({...}); otherwise you could
       # just have written 'finally=<expression>'
-      message("Some other message at the end")
+      message("\nSome other message at the end")
     })
+    
+    if (!is.null(final_call)) {
+      return(final_call)
+    }
     return(out)
   }
   return(retry_once)
@@ -47,9 +63,9 @@ testFunc <- function(a, b, c = "toto") {
 }
 
 retryer <-
-  build_retryer(user = "admin",
+  build_retryer(user = "admin@opensilex.org",
                 password = "admin",
-                url = "http://138.102.159.36:8081/app/")
+                url = "http://138.102.159.36:8081/rest")
 
 retryer
 retryer(testFunc, a = 2, b = 3)
