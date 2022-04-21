@@ -219,7 +219,7 @@ mod_overview_server <- function(id, authentification_module){
     })
 
 
-    data_per_experiment <- shiny::reactive({
+    dataCount_per_experiment <- shiny::reactive({
       experiments_dt <- experiment_dt()
       experiments_uri <- experiments_dt$uri
       authentification_module$connect()
