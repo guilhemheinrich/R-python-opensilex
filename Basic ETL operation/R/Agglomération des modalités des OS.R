@@ -55,6 +55,7 @@ source("./retry_once.R")
 #
 
 # Factors level, bounded to experiment
+# Not directly needed
 # Package try, FAIL (To much mess)
 
 experimentsApi <-
