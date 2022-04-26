@@ -270,6 +270,7 @@ for (experiment_uri in experiments_uri) {
           "?",
           "experiment=",
           URLencode(experiment_uri, reserved = TRUE),
+          "&page_size=10000",
           sep = ""
         )
       get_result <-
@@ -307,7 +308,7 @@ for (experiment_uri in experiments_uri) {
       for (element in germplasm_values) {
         new_row <-
           c(
-            so_uri = so_uri,
+            SO_uri = so_uri,
             name = so_detail$name,
             property_type = "germplasm",
             property_value = element,
@@ -319,7 +320,7 @@ for (experiment_uri in experiments_uri) {
       for (element in factor_values) {
         new_row <-
           c(
-            so_uri = so_uri,
+            SO_uri = so_uri,
             name = so_detail$name,
             property_type = "factor level",
             property_value = element,
@@ -338,3 +339,5 @@ for (experiment_uri in experiments_uri) {
     }
   }
 }
+
+write.csv(detail_per_so,"data\\os_modality.csv", row.names = TRUE)

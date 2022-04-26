@@ -208,6 +208,7 @@ for (experiment_uri in names(type_uri_per_experiment)) {
         "?",
         "experiments=",
         URLencode(experiment_uri, reserved = TRUE),
+        "&page_size=10000",
         sep = ""
       )
     
@@ -242,7 +243,7 @@ print("End of data count")
 print(result_list)
 mat <- cbind(names(result_list), unlist(unname(result_list)))
 print(mat)
-colnames(mat) <- c('uri', 'data_count')
+colnames(mat) <- c('experiment_uri', 'data_count')
 data_card_DT <- data.table::data.table(mat)
 # Data count per experiments per os type/variable
 # Issue: Lack of variable functions
@@ -298,4 +299,5 @@ data_card_DT <- data.table::data.table(mat)
 # colnames(mat) <- c('uri', 'data_count')
 # data_card_DT <- data.table::data.table(mat)
 
-
+write.csv(data_card_DT ,"data\\data_count_per_experiment.csv", row.names = TRUE)
+write.csv(final_dt ,"data\\overview.csv", row.names = TRUE)
