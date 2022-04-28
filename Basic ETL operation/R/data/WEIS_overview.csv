@@ -1,0 +1,10 @@
+"experiment_uri","experiment_name","so_type","so_type_name","so_number"
+"http://www.opensilex.org/weis/WS2019-2","LBE_ANSWER2019_1","http://www.opensilex.org/vocabulary/oeso-weis#Process","Process",7
+"http://www.opensilex.org/weis/WS2017-1","LBE_ANSWER2019_3","http://www.opensilex.org/vocabulary/oeso-weis#Area","Area",2
+"http://www.opensilex.org/weis/WS2017-1","LBE_ANSWER2019_3","http://www.opensilex.org/vocabulary/oeso-weis#Process","Process",12
+"http://www.opensilex.org/weis/WS2018-1","LEESU_2018/2019","http://www.opensilex.org/vocabulary/oeso-weis#Observation_point","Observation_point",3
+"http://www.opensilex.org/weis/WS2018-2","LEESU_MODEL_2018","http://www.opensilex.org/vocabulary/oeso-weis#Observation_point","Observation_point",1
+"http://www.opensilex.org/weis/WS2016-1","NIGLAS_BIGDATA_2016","http://www.opensilex.org/vocabulary/oeso-weis#Observation_point","Observation_point",1
+"http://www.opensilex.org/weis/WS2020-1","Taihu_Map_2020","http://www.opensilex.org/vocabulary/oeso-weis#Observation_point","Observation_point",38696
+"http://www.opensilex.org/weis/WS1996-1","TLLER","http://www.opensilex.org/vocabulary/oeso-weis#Observation_point","Observation_point",19
+"http://www.opensilex.org/weis/WS1996-1","TLLER","http://www.opensilex.org/vocabulary/oeso-weis#Area","Area",19

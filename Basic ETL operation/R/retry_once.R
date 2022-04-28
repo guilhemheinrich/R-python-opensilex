@@ -1,11 +1,11 @@
-retry_once <- function(func, ...) {
+retry_once <- function(func, host, user, password, ...) {
   args = list(...)
   final_call <- NULL
   # From <https://stackoverflow.com/a/12195574>
   out <- tryCatch({
-    opensilexClientToolsR::connectToOpenSILEX(identifier = USER,
-                                              url = HOST,
-                                              password = PASSWORD)
+    opensilexClientToolsR::connectToOpenSILEX(identifier = user,
+                                              url = host,
+                                              password = password)
     
     final_call <- do.call(func, args)
     return(final_call)
@@ -13,9 +13,9 @@ retry_once <- function(func, ...) {
   error = function(cond) {
     # Try once more
     tryCatch({
-      opensilexClientToolsR::connectToOpenSILEX(identifier = USER,
-                                                url = HOST,
-                                                password = PASSWORD)
+      opensilexClientToolsR::connectToOpenSILEX(identifier = user,
+                                                url = host,
+                                                password = password)
       
       final_call <- do.call(func, args)
       message("there")
