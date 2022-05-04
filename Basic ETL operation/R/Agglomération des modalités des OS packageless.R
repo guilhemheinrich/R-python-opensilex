@@ -1,17 +1,11 @@
-source('Retry_builder.R')
 source('getToken.R')
-agglo_mod_os <-
+agglo_mod_os_packageless <-
   function(host,
            user,
            password,
            experiments_uri,
            scientific_object_type) {
     
-    # opensilexClientToolsR::connectToOpenSILEX(identifier = user,
-    #                                           password = password,
-    #                                           url = host)
-
-    retry_once <- build_retryer(host, user, password)
     #    ______         _
     #   |  ____|       | |
     #   | |__ __ _  ___| |_ ___  _ __
@@ -20,41 +14,6 @@ agglo_mod_os <-
     #   |_|  \__,_|\___|\__\___/|_|
     #
     #
-    
-    # Factors level, bounded to experiment
-    # Not directly needed
-    # Package try, FAIL (To much mess)
-    
-    # experimentsApi <-
-    #   opensilexClientToolsR::ExperimentsApi$new()
-    # result <-
-    #   retry_once(
-    #     experimentsApi$get_available_factors,
-    #     "sixtine:set/experiments#qualite-du-fruit-2017"
-    #   )$data
-    # result_df <-
-    #   rbind(
-    #     clay::EnvironmentList_to_dataframe(result),
-    #     clay::EnvironmentList_to_dataframe(result, "levels")
-    #   )
-    # for (experiment_uri in experiments_uri) {
-    #   factors <- tryCatch({
-    #     result <-
-    #       retry_once(experimentsApi$get_available_factors, experiment_uri)$data
-    #     clay::EnvironmentList_to_dataframe(result)
-    #   },
-    #   error = function(cond) {
-    #     # Choose a return value in case of error
-    #     return(NULL)
-    #   },
-    #   warning = function(cond) {
-    #     message(paste("URL caused a warning:", url))
-    #     message("Here's the original warning message:")
-    #     message(cond)
-    #     # Choose a return value in case of warning
-    #     return(NULL)
-    #   })
-    # }
     
     # Raw try
     token <- getToken(host = host, user = user, password = password)
@@ -109,65 +68,51 @@ agglo_mod_os <-
     #   |_____/ \___|_|\___|_| |_|\__|_|_| |_|\___|   \____/|_.__/| |\___|\___|\__|
     #                                                            _/ |
     #                                                           |__/
+    token <- getToken(host = host, user = user, password = password)
+    # call1 <- paste(
+    #   host,
+    #   "/core/scientific_objects/",
+    #   "?",
+    #   "experiment=",
+    #   URLencode(experiment_uri, reserved = TRUE),
+    #   "rdf_types=",
+    #   URLencode(scientific_object_type, reserved = TRUE),
+    #   # "&page_size=10000",
+    #   sep = ""
+    # )
+    # get_result <-
+    #   httr::GET(call1, httr::add_headers(Authorization = token))
+    # get_result_text <- httr::content(get_result, "text")
+    # get_result_json <-
+    #   jsonlite::fromJSON(get_result_text, flatten = TRUE)
+    # get_result_json$result
+    
+    
     so_per_experiments <- list()
-    scientificObjectsApi <-
-      opensilexClientToolsR::ScientificObjectsApi$new()
-    # result <- retry_once(scientificObjectsApi$search_scientific_objects, experiment = experiments_uri[1], rdf_types = scientific_object_type)$data
-    # result <-
-    #   scientificObjectsApi$search_scientific_objects(experiment = experiments_uri[1], rdf_types = scientific_object_type)$data
-    # so_uri <-
-    #   clay::EnvironmentList_to_dataframe(result, "name", "uri")
     for (experiment_uri in experiments_uri) {
-      
-      result <- retry_once(scientificObjectsApi$search_scientific_objects, experiment = experiment_uri, rdf_types = scientific_object_type, page_size = 10000)$data
-      scientific_objects <- clay::EnvironmentList_to_dataframe(result, "name", "uri")
-      if (!is.null(scientific_objects)) {
-        so_per_experiments[[experiment_uri]] <- scientific_objects
+      call1 <- paste(
+        host,
+        "/core/scientific_objects/",
+        "?",
+        "experiment=",
+        URLencode(experiment_uri, reserved = TRUE),
+        "&rdf_types=",
+        URLencode(scientific_object_type, reserved = TRUE),
+        "&page_size=10000",
+        sep = ""
+      )
+      print(call1)
+      get_result <-
+        httr::GET(call1, httr::add_headers(Authorization = token))
+      get_result_text <- httr::content(get_result, "text")
+      get_result_json <-
+        jsonlite::fromJSON(get_result_text, flatten = TRUE)
+      get_result_json$result
+      if (!is.null(get_result_json$result)) {
+        so_per_experiments[[experiment_uri]] <- get_result_json$result
       }
     }
-    
-    # SO detail
-    # Package not working
-    
-    # experiment_uri <- experiments_uri[1]
-    # SOs_uri <- so_per_experiments[[experiment_uri]]$uri
-    # so_uri <- SOs_uri[1]
-    # scientificObjectsApi$get_scientific_object_detail(    uri = so_uri,
-    #                                                       experiment = experiment_uri)
-    # result <-
-    #   retry_once(
-    #     scientificObjectsApi$get_scientific_object_detail,
-    #     uri = so_uri,
-    #     experiment = experiment_uri
-    #   )$data
-    # for (experiment_uri in experiments_uri) {
-    #   SOs_uri <- so_per_experiments[[experiment_uri]]$uri
-    #   for (so_uri in SOs_uri) {
-    #     so_detail <- tryCatch({
-    #       result <-
-    #         retry_once(
-    #           scientificObjectsApi$get_scientific_object_detail,
-    #           uri = so_uri,
-    #           experiment = experiment_uri
-    #         )$data
-    #       result
-    #     },
-    #     error = function(cond) {
-    #       # Choose a return value in case of error
-    #       return(NULL)
-    #     },
-    #     warning = function(cond) {
-    #       message(paste("URL caused a warning:", url))
-    #       message("Here's the original warning message:")
-    #       message(cond)
-    #       # Choose a return value in case of warning
-    #       return(NULL)
-    #     })
-    #   }
-    #   if (!is.null(so_detail)) {
-    #   }
-    # }
-    
+
     # Raw method
     detail_per_so <-
       data.frame(

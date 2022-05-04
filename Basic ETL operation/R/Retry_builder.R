@@ -1,16 +1,14 @@
 library(opensilexClientToolsR)
 
-# On pourrait créer un environment spéciqfique à cette fonction
-
 build_retryer <-  function(url, user, password) {
   retry_once <- function(func, ...) {
     args = list(...)
     final_call <- NULL
     # From <https://stackoverflow.com/a/12195574>
     out <- tryCatch({
-      opensilexClientToolsR::connectToOpenSILEX(identifier = user,
-                                                url = url,
-                                                password = password)
+      # opensilexClientToolsR::connectToOpenSILEX(identifier = user,
+      #                                           url = url,
+      #                                           password = password)
       
       final_call <- do.call(func, args)
       return(final_call)
@@ -58,14 +56,14 @@ build_retryer <-  function(url, user, password) {
 }
 
 
-testFunc <- function(a, b, c = "toto") {
-  return(paste(c, "said that ", a, "+", b, "=", a + b))
-}
-
-retryer <-
-  build_retryer(user = "admin@opensilex.org",
-                password = "admin",
-                url = "http://138.102.159.36:8081/rest")
-
-retryer
-retryer(testFunc, a = 2, b = 3)
+# testFunc <- function(a, b, c = "toto") {
+#   return(paste(c, "said that ", a, "+", b, "=", a + b))
+# }
+# 
+# retryer <-
+#   build_retryer(user = "admin@opensilex.org",
+#                 password = "admin",
+#                 url = "http://138.102.159.36:8081/rest")
+# 
+# retryer
+# retryer(testFunc, a = 2, b = 3)
