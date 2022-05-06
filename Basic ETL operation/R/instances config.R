@@ -1,56 +1,4 @@
-source(file = "Agglomération expérimentations.R")
-source(file = "Agglomération des modalités des OS.R")
-source(file = "Agglomération des données direct.R")
-
-routine <- function(configuration) {
-  profvis::profvis({
-    result <- agglo_experiment(
-      host = configuration$host,
-      user = configuration$user,
-      password = configuration$password
-    )
-    write.csv(
-      result$data_card_DT ,
-      paste0(
-        "data\\",
-        configuration$prefix,
-        "_overview_data_count_per_experiment.csv"
-      ),
-      row.names = FALSE
-    )
-    write.csv(
-      result$final_dt ,
-      paste0("data\\", configuration$prefix, "_overview.csv"),
-      row.names = FALSE
-    )
-    
-    result <- agglo_mod_os(
-      host = configuration$host,
-      user = configuration$user,
-      password = configuration$password,
-      experiments_uri = configuration$experiments_uri,
-      scientific_object_type = configuration$scientific_object_type
-    )
-    write.csv(result,
-              paste0("data\\", configuration$prefix, "_os_modality.csv"),
-              row.names = FALSE)
-    
-    
-    result <- agglo_direct_data(
-      host = configuration$host,
-      user = configuration$user,
-      password = configuration$password,
-      experiments_uri = configuration$experiments_uri,
-      scientific_object_type = configuration$scientific_object_type
-    )
-    write.csv(result,
-              paste0("data\\", configuration$prefix, "_direct_data.csv"),
-              row.names = FALSE)
-  })
-}
-
-
-
+source("./routine.R")
 
 #   __          ________ _____  _____
 #   \ \        / /  ____|_   _|/ ____|
@@ -82,7 +30,16 @@ WEIS <- list(
   scientific_object_type = "http://www.opensilex.org/vocabulary/oeso-weis#Process"
 )
 
-routine(WEIS)
+routine(
+  WEIS,
+  routine_configuration = list(
+    agglo_experiment = FALSE,
+    agglo_mod_os = FALSE,
+    agglo_direct_data = TRUE,
+    agglo_mod_os_packageless = FALSE,
+    agglo_mod_os_CSV = FALSE
+  )
+)
 #     _____ _      _   _
 #    / ____(_)    | | (_)
 #   | (___  ___  _| |_ _ _ __   ___
@@ -112,4 +69,38 @@ SIXTINE <- list(
   scientific_object_type = "http://www.opensilex.org/vocabulary/oeso#SubPlot"
 )
 
-routine(SIXTINE)
+routine(
+  SIXTINE,
+  routine_configuration = list(
+    agglo_experiment = FALSE,
+    agglo_mod_os = FALSE,
+    agglo_direct_data = TRUE,
+    agglo_mod_os_packageless = FALSE,
+    agglo_mod_os_CSV = FALSE
+  ),
+  profiling = TRUE
+)
+
+
+SIXTINE_BIS <- list(
+  prefix = "SIXTINE_BIS",
+  user = "admin@opensilex.org",
+  password = "admin",
+  host = "https://sixtine.mistea.inrae.fr/rest",
+  experiments_uri = "sixtine:set/experiments#resintbio",
+  scientific_object_type = "http://www.opensilex.org/vocabulary/oeso#SubPlot"
+)
+
+routine(
+  SIXTINE_BIS,
+  routine_configuration = list(
+    agglo_experiment = FALSE,
+    agglo_mod_os = FALSE,
+    agglo_direct_data = TRUE,
+    agglo_mod_os_packageless = FALSE,
+    agglo_mod_os_CSV = FALSE,
+    agglo_direct_data_CSV = TRUE,
+    agglo_direct_data_CSV_parameterless = TRUE
+  ),
+  profiling = TRUE
+)

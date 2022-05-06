@@ -124,7 +124,6 @@ agglo_direct_data <- function(host,
     # variable_name = variables_list$name[which(variables_list$uri == get_result_json$result$variable)],
   final_dt <- merge(content_df, so_per_experiment)
   final_dt <- merge(final_dt, data.frame(variable_uri = variables_list$uri, variable_name = variables_list$name))
-  print(final_dt)
   return(final_dt)
 }
 

@@ -1,0 +1,3766 @@
+"uri.URI","type.Type","name.Nom","geometry.geometry","rdfs.comment.Description","vocabulary.hasCreationDate.Date.de.création","vocabulary.hasDestructionDate.Date.de.destruction","vocabulary.hasFactorLevel.Modalité.de.facteur","vocabulary.hasGermplasm.Matériel.génétique","vocabulary.isHosted.Est.accueillie","vocabulary.isPartOf.Est.une.partie.de","NA.NA","NA.NA.1","NA.NA.2"
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/10","vocabulary:SubPlot",10,"LINESTRING (0.415859 44.3323708, 0.4159449 44.332424)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/100","vocabulary:SubPlot",100,"LINESTRING (0.4165961 44.3317585, 0.416682 44.3318117)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/101","vocabulary:SubPlot",101,"LINESTRING (0.4167107 44.3318294, 0.4167966 44.3318827)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/102","vocabulary:SubPlot",102,"LINESTRING (0.4168252 44.3319004, 0.4169112 44.3319536)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/103","vocabulary:SubPlot",103,"LINESTRING (0.4163015 44.3315049, 0.4163874 44.3315581)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/104","vocabulary:SubPlot",104,"LINESTRING (0.4164161 44.3315758, 0.416502 44.331629)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/105","vocabulary:SubPlot",105,"LINESTRING (0.4165306 44.3316467, 0.4166166 44.3317)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/106","vocabulary:SubPlot",106,"LINESTRING (0.4166452 44.3317177, 0.4167312 44.3317709)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/107","vocabulary:SubPlot",107,"LINESTRING (0.4167598 44.3317886, 0.4168457 44.3318418)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/108","vocabulary:SubPlot",108,"LINESTRING (0.4168744 44.3318596, 0.4169603 44.3319128)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/109","vocabulary:SubPlot",109,"LINESTRING (0.4163506 44.331464, 0.4164365 44.3315172)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/11","vocabulary:SubPlot",11,"LINESTRING (0.4159736 44.3324417, 0.4160595 44.3324949)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/110","vocabulary:SubPlot",110,"LINESTRING (0.4164652 44.331535, 0.4165511 44.3315882)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/111","vocabulary:SubPlot",111,"LINESTRING (0.4165798 44.3316059, 0.4166657 44.3316591)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/112","vocabulary:SubPlot",112,"LINESTRING (0.4166944 44.3316769, 0.4167803 44.3317301)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/113","vocabulary:SubPlot",113,"LINESTRING (0.4168089 44.3317478, 0.4168949 44.331801)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/114","vocabulary:SubPlot",114,"LINESTRING (0.4169235 44.3318188, 0.4170095 44.331872)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/115","vocabulary:SubPlot",115,"LINESTRING (0.4163998 44.3314232, 0.4164857 44.3314764)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/116","vocabulary:SubPlot",116,"LINESTRING (0.4165143 44.3314942, 0.4166003 44.3315474)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/117","vocabulary:SubPlot",117,"LINESTRING (0.4166289 44.3315651, 0.4167148 44.3316183)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/118","vocabulary:SubPlot",118,"LINESTRING (0.4167435 44.3316361, 0.4168294 44.3316893)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/119","vocabulary:SubPlot",119,"LINESTRING (0.4168581 44.331707, 0.416944 44.3317602)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/12","vocabulary:SubPlot",12,"LINESTRING (0.4160882 44.3325127, 0.4161741 44.3325659)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/120","vocabulary:SubPlot",120,"LINESTRING (0.4169727 44.3317779, 0.4170586 44.3318311)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/121","vocabulary:SubPlot",121,"LINESTRING (0.4164489 44.3313824, 0.4165348 44.3314356)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/122","vocabulary:SubPlot",122,"LINESTRING (0.4165635 44.3314533, 0.4166494 44.3315066)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/123","vocabulary:SubPlot",123,"LINESTRING (0.4166781 44.3315243, 0.416764 44.3315775)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/124","vocabulary:SubPlot",124,"LINESTRING (0.4167926 44.3315952, 0.4168786 44.3316484)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/125","vocabulary:SubPlot",125,"LINESTRING (0.4169072 44.3316662, 0.4169931 44.3317194)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/126","vocabulary:SubPlot",126,"LINESTRING (0.4170218 44.3317371, 0.4171077 44.3317903)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/127","vocabulary:SubPlot",127,"LINESTRING (0.416498 44.3313416, 0.416584 44.3313948)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/128","vocabulary:SubPlot",128,"LINESTRING (0.4166126 44.3314125, 0.4166985 44.3314657)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/129","vocabulary:SubPlot",129,"LINESTRING (0.4167272 44.3314835, 0.4168131 44.3315367)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/13","vocabulary:SubPlot",13,"LINESTRING (0.4155644 44.3321171, 0.4156503 44.3321703)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/130","vocabulary:SubPlot",130,"LINESTRING (0.4168418 44.3315544, 0.4169277 44.3316076)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/131","vocabulary:SubPlot",131,"LINESTRING (0.4169564 44.3316254, 0.4170423 44.3316786)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/132","vocabulary:SubPlot",132,"LINESTRING (0.4170709 44.3316963, 0.4171569 44.3317495)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/133","vocabulary:SubPlot",133,"LINESTRING (0.4165472 44.3313008, 0.4166331 44.331354)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/134","vocabulary:SubPlot",134,"LINESTRING (0.4166617 44.3313717, 0.4167477 44.3314249)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/135","vocabulary:SubPlot",135,"LINESTRING (0.4167763 44.3314427, 0.4168623 44.3314959)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/136","vocabulary:SubPlot",136,"LINESTRING (0.4168909 44.3315136, 0.4169768 44.3315668)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/137","vocabulary:SubPlot",137,"LINESTRING (0.4170055 44.3315845, 0.4170914 44.3316378)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/138","vocabulary:SubPlot",138,"LINESTRING (0.4171201 44.3316555, 0.417206 44.3317087)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/139","vocabulary:SubPlot",139,"LINESTRING (0.4165963 44.33126, 0.4166822 44.3313132)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/14","vocabulary:SubPlot",14,"LINESTRING (0.415679 44.332188, 0.4157649 44.3322413)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/140","vocabulary:SubPlot",140,"LINESTRING (0.4167109 44.3313309, 0.4167968 44.3313841)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/141","vocabulary:SubPlot",141,"LINESTRING (0.4168255 44.3314018, 0.4169114 44.3314551)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/142","vocabulary:SubPlot",142,"LINESTRING (0.41694 44.3314728, 0.417026 44.331526)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/143","vocabulary:SubPlot",143,"LINESTRING (0.4170546 44.3315437, 0.4171406 44.3315969)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/144","vocabulary:SubPlot",144,"LINESTRING (0.4171692 44.3316147, 0.4172551 44.3316679)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/145","vocabulary:SubPlot",145,"LINESTRING (0.4165889 44.332467, 0.4166758 44.3325207)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/146","vocabulary:SubPlot",146,"LINESTRING (0.4167048 44.3325385, 0.4167918 44.3325922)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/147","vocabulary:SubPlot",147,"LINESTRING (0.4168208 44.33261, 0.4169078 44.3326637)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/148","vocabulary:SubPlot",148,"LINESTRING (0.4169368 44.3326816, 0.4170238 44.3327352)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/149","vocabulary:SubPlot",149,"LINESTRING (0.4170528 44.3327531, 0.4171398 44.3328067)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/15","vocabulary:SubPlot",15,"LINESTRING (0.4157936 44.332259, 0.4158795 44.3323122)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/150","vocabulary:SubPlot",150,"LINESTRING (0.4171688 44.3328246, 0.4172558 44.3328782)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/151","vocabulary:SubPlot",151,"LINESTRING (0.4166381 44.3324263, 0.4167251 44.3324799)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/152","vocabulary:SubPlot",152,"LINESTRING (0.416754 44.3324978, 0.416841 44.3325514)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/153","vocabulary:SubPlot",153,"LINESTRING (0.41687 44.3325693, 0.416957 44.3326229)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/154","vocabulary:SubPlot",154,"LINESTRING (0.416986 44.3326408, 0.417073 44.3326944)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/155","vocabulary:SubPlot",155,"LINESTRING (0.417102 44.3327123, 0.417189 44.3327659)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/156","vocabulary:SubPlot",156,"LINESTRING (0.417218 44.3327838, 0.417305 44.3328374)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/157","vocabulary:SubPlot",157,"LINESTRING (0.4166873 44.3323855, 0.4167743 44.3324391)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/158","vocabulary:SubPlot",158,"LINESTRING (0.4168033 44.332457, 0.4168903 44.3325106)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/159","vocabulary:SubPlot",159,"LINESTRING (0.4169193 44.3325285, 0.4170062 44.3325822)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/16","vocabulary:SubPlot",16,"LINESTRING (0.4159081 44.3323299, 0.4159941 44.3323832)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/160","vocabulary:SubPlot",160,"LINESTRING (0.4170352 44.3326, 0.4171222 44.3326537)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/161","vocabulary:SubPlot",161,"LINESTRING (0.4171512 44.3326715, 0.4172382 44.3327252)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/162","vocabulary:SubPlot",162,"LINESTRING (0.4172672 44.3327431, 0.4173542 44.3327967)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/163","vocabulary:SubPlot",163,"LINESTRING (0.4167365 44.3323447, 0.4168235 44.3323984)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/164","vocabulary:SubPlot",164,"LINESTRING (0.4168525 44.3324163, 0.4169395 44.3324699)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/165","vocabulary:SubPlot",165,"LINESTRING (0.4169685 44.3324878, 0.4170555 44.3325414)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/166","vocabulary:SubPlot",166,"LINESTRING (0.4170845 44.3325593, 0.4171715 44.3326129)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/167","vocabulary:SubPlot",167,"LINESTRING (0.4172005 44.3326308, 0.4172874 44.3326844)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/168","vocabulary:SubPlot",168,"LINESTRING (0.4173164 44.3327023, 0.4174034 44.3327559)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/169","vocabulary:SubPlot",169,"LINESTRING (0.4167857 44.332304, 0.4168727 44.3323576)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/17","vocabulary:SubPlot",17,"LINESTRING (0.4160227 44.3324009, 0.4161087 44.3324541)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/170","vocabulary:SubPlot",170,"LINESTRING (0.4169017 44.3323755, 0.4169887 44.3324291)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/171","vocabulary:SubPlot",171,"LINESTRING (0.4170177 44.332447, 0.4171047 44.3325006)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/172","vocabulary:SubPlot",172,"LINESTRING (0.4171337 44.3325185, 0.4172207 44.3325721)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/173","vocabulary:SubPlot",173,"LINESTRING (0.4172497 44.33259, 0.4173367 44.3326436)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/174","vocabulary:SubPlot",174,"LINESTRING (0.4173657 44.3326615, 0.4174526 44.3327152)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/175","vocabulary:SubPlot",175,"LINESTRING (0.4168349 44.3322632, 0.4169219 44.3323168)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/176","vocabulary:SubPlot",176,"LINESTRING (0.4169509 44.3323347, 0.4170379 44.3323884)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/177","vocabulary:SubPlot",177,"LINESTRING (0.4170669 44.3324062, 0.4171539 44.3324599)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/178","vocabulary:SubPlot",178,"LINESTRING (0.4171829 44.3324777, 0.4172699 44.3325314)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/179","vocabulary:SubPlot",179,"LINESTRING (0.4172989 44.3325493, 0.4173859 44.3326029)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/18","vocabulary:SubPlot",18,"LINESTRING (0.4161373 44.3324718, 0.4162232 44.332525)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/180","vocabulary:SubPlot",180,"LINESTRING (0.4174149 44.3326208, 0.4175019 44.3326744)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/181","vocabulary:SubPlot",181,"LINESTRING (0.4168842 44.3322225, 0.4169712 44.3322761)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/182","vocabulary:SubPlot",182,"LINESTRING (0.4170001 44.332294, 0.4170871 44.3323476)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/183","vocabulary:SubPlot",183,"LINESTRING (0.4171161 44.3323655, 0.4172031 44.3324191)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/184","vocabulary:SubPlot",184,"LINESTRING (0.4172321 44.332437, 0.4173191 44.3324906)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/185","vocabulary:SubPlot",185,"LINESTRING (0.4173481 44.3325085, 0.4174351 44.3325621)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/186","vocabulary:SubPlot",186,"LINESTRING (0.4174641 44.33258, 0.4175511 44.3326336)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/187","vocabulary:SubPlot",187,"LINESTRING (0.4169334 44.3321817, 0.4170204 44.3322353)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/188","vocabulary:SubPlot",188,"LINESTRING (0.4170494 44.3322532, 0.4171363 44.3323068)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/189","vocabulary:SubPlot",189,"LINESTRING (0.4171653 44.3323247, 0.4172523 44.3323783)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/19","vocabulary:SubPlot",19,"LINESTRING (0.4156135 44.3320763, 0.4156995 44.3321295)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/190","vocabulary:SubPlot",190,"LINESTRING (0.4172813 44.3323962, 0.4173683 44.3324498)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/191","vocabulary:SubPlot",191,"LINESTRING (0.4173973 44.3324677, 0.4174843 44.3325214)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/192","vocabulary:SubPlot",192,"LINESTRING (0.4175133 44.3325392, 0.4176003 44.3325929)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/193","vocabulary:SubPlot",193,"LINESTRING (0.4169826 44.3321409, 0.4170696 44.3321946)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/194","vocabulary:SubPlot",194,"LINESTRING (0.4170986 44.3322124, 0.4171856 44.3322661)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/195","vocabulary:SubPlot",195,"LINESTRING (0.4172146 44.3322839, 0.4173016 44.3323376)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/196","vocabulary:SubPlot",196,"LINESTRING (0.4173306 44.3323554, 0.4174175 44.3324091)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/197","vocabulary:SubPlot",197,"LINESTRING (0.4174465 44.332427, 0.4175335 44.3324806)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/198","vocabulary:SubPlot",198,"LINESTRING (0.4175625 44.3324985, 0.4176495 44.3325521)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/199","vocabulary:SubPlot",199,"LINESTRING (0.4170318 44.3321002, 0.4171188 44.3321538)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/2","vocabulary:SubPlot",2,"LINESTRING (0.4155807 44.3322697, 0.4156666 44.3323229)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/20","vocabulary:SubPlot",20,"LINESTRING (0.4157281 44.3321472, 0.415814 44.3322004)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/200","vocabulary:SubPlot",200,"LINESTRING (0.4171478 44.3321717, 0.4172348 44.3322253)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/201","vocabulary:SubPlot",201,"LINESTRING (0.4172638 44.3322432, 0.4173508 44.3322968)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/202","vocabulary:SubPlot",202,"LINESTRING (0.4173798 44.3323147, 0.4174668 44.3323683)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/203","vocabulary:SubPlot",203,"LINESTRING (0.4174958 44.3323862, 0.4175828 44.3324398)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/204","vocabulary:SubPlot",204,"LINESTRING (0.4176118 44.3324577, 0.4176987 44.3325113)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/205","vocabulary:SubPlot",205,"LINESTRING (0.417081 44.3320594, 0.417168 44.332113)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/206","vocabulary:SubPlot",206,"LINESTRING (0.417197 44.3321309, 0.417284 44.3321845)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/207","vocabulary:SubPlot",207,"LINESTRING (0.417313 44.3322024, 0.4174 44.332256)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/208","vocabulary:SubPlot",208,"LINESTRING (0.417429 44.3322739, 0.417516 44.3323276)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/209","vocabulary:SubPlot",209,"LINESTRING (0.417545 44.3323454, 0.417632 44.3323991)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/21","vocabulary:SubPlot",21,"LINESTRING (0.4158427 44.3322182, 0.4159286 44.3322714)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/210","vocabulary:SubPlot",210,"LINESTRING (0.417661 44.3324169, 0.417748 44.3324706)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/211","vocabulary:SubPlot",211,"LINESTRING (0.4171303 44.3320186, 0.4172172 44.3320723)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/212","vocabulary:SubPlot",212,"LINESTRING (0.4172462 44.3320901, 0.4173332 44.3321438)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/213","vocabulary:SubPlot",213,"LINESTRING (0.4173622 44.3321617, 0.4174492 44.3322153)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/214","vocabulary:SubPlot",214,"LINESTRING (0.4174782 44.3322332, 0.4175652 44.3322868)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/215","vocabulary:SubPlot",215,"LINESTRING (0.4175942 44.3323047, 0.4176812 44.3323583)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/216","vocabulary:SubPlot",216,"LINESTRING (0.4177102 44.3323762, 0.4177972 44.3324298)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/217","vocabulary:SubPlot",217,"LINESTRING (0.4171795 44.3319779, 0.4172665 44.3320315)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/218","vocabulary:SubPlot",218,"LINESTRING (0.4172955 44.3320494, 0.4173825 44.332103)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/219","vocabulary:SubPlot",219,"LINESTRING (0.4174114 44.3321209, 0.4174984 44.3321745)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/22","vocabulary:SubPlot",22,"LINESTRING (0.4159573 44.3322891, 0.4160432 44.3323423)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/220","vocabulary:SubPlot",220,"LINESTRING (0.4175274 44.3321924, 0.4176144 44.332246)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/221","vocabulary:SubPlot",221,"LINESTRING (0.4176434 44.3322639, 0.4177304 44.3323175)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/222","vocabulary:SubPlot",222,"LINESTRING (0.4177594 44.3323354, 0.4178464 44.3323891)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/223","vocabulary:SubPlot",223,"LINESTRING (0.4172287 44.3319371, 0.4173157 44.3319907)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/224","vocabulary:SubPlot",224,"LINESTRING (0.4173447 44.3320086, 0.4174317 44.3320623)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/225","vocabulary:SubPlot",225,"LINESTRING (0.4174607 44.3320801, 0.4175476 44.3321338)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/226","vocabulary:SubPlot",226,"LINESTRING (0.4175766 44.3321516, 0.4176636 44.3322053)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/227","vocabulary:SubPlot",227,"LINESTRING (0.4176926 44.3322231, 0.4177796 44.3322768)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/228","vocabulary:SubPlot",228,"LINESTRING (0.4178086 44.3322947, 0.4178956 44.3323483)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/229","vocabulary:SubPlot",229,"LINESTRING (0.4172779 44.3318964, 0.4173649 44.33195)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/23","vocabulary:SubPlot",23,"LINESTRING (0.4160719 44.3323601, 0.4161578 44.3324133)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/230","vocabulary:SubPlot",230,"LINESTRING (0.4173939 44.3319679, 0.4174809 44.3320215)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/231","vocabulary:SubPlot",231,"LINESTRING (0.4175099 44.3320394, 0.4175969 44.332093)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/232","vocabulary:SubPlot",232,"LINESTRING (0.4176259 44.3321109, 0.4177129 44.3321645)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/233","vocabulary:SubPlot",233,"LINESTRING (0.4177418 44.3321824, 0.4178288 44.332236)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/234","vocabulary:SubPlot",234,"LINESTRING (0.4178578 44.3322539, 0.4179448 44.3323075)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/235","vocabulary:SubPlot",235,"LINESTRING (0.4173271 44.3318556, 0.4174141 44.3319092)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/236","vocabulary:SubPlot",236,"LINESTRING (0.4174431 44.3319271, 0.4175301 44.3319807)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/237","vocabulary:SubPlot",237,"LINESTRING (0.4175591 44.3319986, 0.4176461 44.3320522)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/238","vocabulary:SubPlot",238,"LINESTRING (0.4176751 44.3320701, 0.4177621 44.3321237)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/239","vocabulary:SubPlot",239,"LINESTRING (0.4177911 44.3321416, 0.4178781 44.3321953)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/24","vocabulary:SubPlot",24,"LINESTRING (0.4161864 44.332431, 0.4162724 44.3324842)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/240","vocabulary:SubPlot",240,"LINESTRING (0.4179071 44.3322131, 0.4179941 44.3322668)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/241","vocabulary:SubPlot",241,"LINESTRING (0.4173763 44.3318148, 0.4174633 44.3318685)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/242","vocabulary:SubPlot",242,"LINESTRING (0.4174923 44.3318863, 0.4175793 44.33194)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/243","vocabulary:SubPlot",243,"LINESTRING (0.4176083 44.3319578, 0.4176953 44.3320115)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/244","vocabulary:SubPlot",244,"LINESTRING (0.4177243 44.3320293, 0.4178113 44.332083)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/245","vocabulary:SubPlot",245,"LINESTRING (0.4178403 44.3321009, 0.4179273 44.3321545)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/246","vocabulary:SubPlot",246,"LINESTRING (0.4179563 44.3321724, 0.4180433 44.332226)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/247","vocabulary:SubPlot",247,"LINESTRING (0.4174256 44.3317741, 0.4175125 44.3318277)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/248","vocabulary:SubPlot",248,"LINESTRING (0.4175415 44.3318456, 0.4176285 44.3318992)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/249","vocabulary:SubPlot",249,"LINESTRING (0.4176575 44.3319171, 0.4177445 44.3319707)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/25","vocabulary:SubPlot",25,"LINESTRING (0.4156627 44.3320355, 0.4157486 44.3320887)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/250","vocabulary:SubPlot",250,"LINESTRING (0.4177735 44.3319886, 0.4178605 44.3320422)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/251","vocabulary:SubPlot",251,"LINESTRING (0.4178895 44.3320601, 0.4179765 44.3321137)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/252","vocabulary:SubPlot",252,"LINESTRING (0.4180055 44.3321316, 0.4180925 44.3321852)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : organique
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/26","vocabulary:SubPlot",26,"LINESTRING (0.4157773 44.3321064, 0.4158632 44.3321596)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/27","vocabulary:SubPlot",27,"LINESTRING (0.4158918 44.3321774, 0.4159778 44.3322306)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/28","vocabulary:SubPlot",28,"LINESTRING (0.4160064 44.3322483, 0.4160923 44.3323015)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/29","vocabulary:SubPlot",29,"LINESTRING (0.416121 44.3323193, 0.4162069 44.3323725)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/3","vocabulary:SubPlot",3,"LINESTRING (0.4156953 44.3323406, 0.4157812 44.3323938)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/30","vocabulary:SubPlot",30,"LINESTRING (0.4162356 44.3323902, 0.4163215 44.3324434)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/31","vocabulary:SubPlot",31,"LINESTRING (0.4157118 44.3319947, 0.4157977 44.3320479)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/32","vocabulary:SubPlot",32,"LINESTRING (0.4158264 44.3320656, 0.4159123 44.3321188)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/33","vocabulary:SubPlot",33,"LINESTRING (0.415941 44.3321365, 0.4160269 44.3321898)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/34","vocabulary:SubPlot",34,"LINESTRING (0.4160556 44.3322075, 0.4161415 44.3322607)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/35","vocabulary:SubPlot",35,"LINESTRING (0.4161701 44.3322784, 0.4162561 44.3323316)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/36","vocabulary:SubPlot",36,"LINESTRING (0.4162847 44.3323494, 0.4163706 44.3324026)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/37","vocabulary:SubPlot",37,"LINESTRING (0.4157609 44.3319538, 0.4158469 44.3320071)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/38","vocabulary:SubPlot",38,"LINESTRING (0.4158755 44.3320248, 0.4159615 44.332078)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/39","vocabulary:SubPlot",39,"LINESTRING (0.4159901 44.3320957, 0.416076 44.3321489)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/4","vocabulary:SubPlot",4,"LINESTRING (0.4158099 44.3324116, 0.4158958 44.3324648)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/40","vocabulary:SubPlot",40,"LINESTRING (0.4161047 44.3321667, 0.4161906 44.3322199)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/41","vocabulary:SubPlot",41,"LINESTRING (0.4162193 44.3322376, 0.4163052 44.3322908)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/42","vocabulary:SubPlot",42,"LINESTRING (0.4163339 44.3323086, 0.4164198 44.3323618)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/43","vocabulary:SubPlot",43,"LINESTRING (0.4158101 44.331913, 0.415896 44.3319662)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/44","vocabulary:SubPlot",44,"LINESTRING (0.4159247 44.331984, 0.4160106 44.3320372)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/45","vocabulary:SubPlot",45,"LINESTRING (0.4160392 44.3320549, 0.4161252 44.3321081)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/46","vocabulary:SubPlot",46,"LINESTRING (0.4161538 44.3321259, 0.4162398 44.3321791)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/47","vocabulary:SubPlot",47,"LINESTRING (0.4162684 44.3321968, 0.4163543 44.33225)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/48","vocabulary:SubPlot",48,"LINESTRING (0.416383 44.3322677, 0.4164689 44.332321)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/49","vocabulary:SubPlot",49,"LINESTRING (0.4158592 44.3318722, 0.4159452 44.3319254)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/5","vocabulary:SubPlot",5,"LINESTRING (0.4159244 44.3324825, 0.4160104 44.3325357)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/50","vocabulary:SubPlot",50,"LINESTRING (0.4159738 44.3319432, 0.4160597 44.3319964)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/51","vocabulary:SubPlot",51,"LINESTRING (0.4160884 44.3320141, 0.4161743 44.3320673)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/52","vocabulary:SubPlot",52,"LINESTRING (0.416203 44.332085, 0.4162889 44.3321382)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/53","vocabulary:SubPlot",53,"LINESTRING (0.4163176 44.332156, 0.4164035 44.3322092)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/54","vocabulary:SubPlot",54,"LINESTRING (0.4164321 44.3322269, 0.4165181 44.3322801)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/55","vocabulary:SubPlot",55,"LINESTRING (0.4159084 44.3318314, 0.4159943 44.3318846)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/56","vocabulary:SubPlot",56,"LINESTRING (0.4160229 44.3319023, 0.4161089 44.3319555)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/57","vocabulary:SubPlot",57,"LINESTRING (0.4161375 44.3319733, 0.4162235 44.3320265)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/58","vocabulary:SubPlot",58,"LINESTRING (0.4162521 44.3320442, 0.416338 44.3320974)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/59","vocabulary:SubPlot",59,"LINESTRING (0.4163667 44.3321152, 0.4164526 44.3321684)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/6","vocabulary:SubPlot",6,"LINESTRING (0.416039 44.3325535, 0.416125 44.3326067)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/60","vocabulary:SubPlot",60,"LINESTRING (0.4164813 44.3321861, 0.4165672 44.3322393)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/61","vocabulary:SubPlot",61,"LINESTRING (0.4159575 44.3317906, 0.4160434 44.3318438)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/62","vocabulary:SubPlot",62,"LINESTRING (0.4160721 44.3318615, 0.416158 44.3319147)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/63","vocabulary:SubPlot",63,"LINESTRING (0.4161867 44.3319325, 0.4162726 44.3319857)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/64","vocabulary:SubPlot",64,"LINESTRING (0.4163012 44.3320034, 0.4163872 44.3320566)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/65","vocabulary:SubPlot",65,"LINESTRING (0.4164158 44.3320743, 0.4165018 44.3321276)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/66","vocabulary:SubPlot",66,"LINESTRING (0.4165304 44.3321453, 0.4166163 44.3321985)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/67","vocabulary:SubPlot",67,"LINESTRING (0.4160066 44.3317498, 0.4160926 44.331803)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/68","vocabulary:SubPlot",68,"LINESTRING (0.4161212 44.3318207, 0.4162072 44.3318739)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/69","vocabulary:SubPlot",69,"LINESTRING (0.4162358 44.3318916, 0.4163217 44.3319449)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/7","vocabulary:SubPlot",7,"LINESTRING (0.4155153 44.3321579, 0.4156012 44.3322111)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/70","vocabulary:SubPlot",70,"LINESTRING (0.4163504 44.3319626, 0.4164363 44.3320158)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/71","vocabulary:SubPlot",71,"LINESTRING (0.416465 44.3320335, 0.4165509 44.3320867)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/72","vocabulary:SubPlot",72,"LINESTRING (0.4165795 44.3321045, 0.4166655 44.3321577)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : mic
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/73","vocabulary:SubPlot",73,"LINESTRING (0.4160558 44.3317089, 0.4161417 44.3317622)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/74","vocabulary:SubPlot",74,"LINESTRING (0.4161704 44.3317799, 0.4162563 44.3318331)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/75","vocabulary:SubPlot",75,"LINESTRING (0.4162849 44.3318508, 0.4163709 44.331904)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/76","vocabulary:SubPlot",76,"LINESTRING (0.4163995 44.3319218, 0.4164855 44.331975)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/77","vocabulary:SubPlot",77,"LINESTRING (0.4165141 44.3319927, 0.4166 44.3320459)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/78","vocabulary:SubPlot",78,"LINESTRING (0.4166287 44.3320637, 0.4167146 44.3321169)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-microjet","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/79","vocabulary:SubPlot",79,"LINESTRING (0.4161049 44.3316681, 0.4161909 44.3317213)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/8","vocabulary:SubPlot",8,"LINESTRING (0.4156298 44.3322289, 0.4157158 44.3322821)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/80","vocabulary:SubPlot",80,"LINESTRING (0.4162195 44.3317391, 0.4163054 44.3317923)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/81","vocabulary:SubPlot",81,"LINESTRING (0.4163341 44.33181, 0.41642 44.3318632)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/82","vocabulary:SubPlot",82,"LINESTRING (0.4164487 44.331881, 0.4165346 44.3319342)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/83","vocabulary:SubPlot",83,"LINESTRING (0.4165632 44.3319519, 0.4166492 44.3320051)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/84","vocabulary:SubPlot",84,"LINESTRING (0.4166778 44.3320228, 0.4167638 44.3320761)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/85","vocabulary:SubPlot",85,"LINESTRING (0.4161541 44.3316273, 0.41624 44.3316805)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/86","vocabulary:SubPlot",86,"LINESTRING (0.4162686 44.3316983, 0.4163546 44.3317515)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/87","vocabulary:SubPlot",87,"LINESTRING (0.4163832 44.3317692, 0.4164692 44.3318224)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/88","vocabulary:SubPlot",88,"LINESTRING (0.4164978 44.3318401, 0.4165837 44.3318933)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/89","vocabulary:SubPlot",89,"LINESTRING (0.4166124 44.3319111, 0.4166983 44.3319643)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.ferti-irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/9","vocabulary:SubPlot",9,"LINESTRING (0.4157444 44.3322998, 0.4158303 44.332353)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : enh
+Ferti_irrigation : non
+Répétition : 1
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/90","vocabulary:SubPlot",90,"LINESTRING (0.416727 44.331982, 0.4168129 44.3320352)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : des
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/91","vocabulary:SubPlot",91,"LINESTRING (0.4162032 44.3315865, 0.4162891 44.3316397)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/92","vocabulary:SubPlot",92,"LINESTRING (0.4163178 44.3316574, 0.4164037 44.3317106)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/93","vocabulary:SubPlot",93,"LINESTRING (0.4164324 44.3317284, 0.4165183 44.3317816)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.desherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.sec","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/94","vocabulary:SubPlot",94,"LINESTRING (0.4165469 44.3317993, 0.4166329 44.3318525)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 16-13 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 16-13",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707 http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/95","vocabulary:SubPlot",95,"LINESTRING (0.4166615 44.3318703, 0.4167475 44.3319235)","Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 20-17 Variété : 2733
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 20-17",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/96","vocabulary:SubPlot",96,"LINESTRING (0.4167761 44.3319412, 0.416862 44.3319944)","Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 24-21 Variété : 2733
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : ent
+Enherbement : enh
+Ferti_irrigation : oui
+Répétition : 2
+Arbre : 24-21",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan http://sixtine.mistea.inrae.fr/set/germplasms#scionlot.prune-dente-707",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/97","vocabulary:SubPlot",97,"LINESTRING (0.4162523 44.3315457, 0.4163383 44.3315989)","Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1 Variété : Spu
+Porte-Greffe : Ish
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 4-1",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.ishtara http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/98","vocabulary:SubPlot",98,"LINESTRING (0.4163669 44.3316166, 0.4164528 44.3316698)","Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5 Variété : Spu
+Porte-Greffe : myro
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 8-5",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.myrobolan",NA,NA,NA,NA,NA
+"inra-sixtine:qualite-du-fruit-bas-intrant/so-parcelle-e-minerale/99","vocabulary:SubPlot",99,"LINESTRING (0.4164815 44.3316876, 0.4165674 44.3317408)","Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9 Variété : Spu
+Porte-Greffe : jaspi
+Fertilisation : minerale
+Irrigation : sec
+Enherbement : des
+Ferti_irrigation : non
+Répétition : 3
+Arbre : 12-9",NA,NA,"sixtine:set/factors#qualite-du-fruit-2017.enherbement.enherbe sixtine:set/factors#qualite-du-fruit-2017.irrigation.irrigue-enterre","http://sixtine.mistea.inrae.fr/set/germplasms#variety.ferco http://sixtine.mistea.inrae.fr/set/germplasms#rootstocklot.jaspi",NA,NA,NA,NA,NA

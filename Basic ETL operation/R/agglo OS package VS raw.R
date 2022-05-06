@@ -1,6 +1,8 @@
 source(file = "Agglomération des modalités des OS.R")
 source(file = "Agglomération des modalités des OS packageless.R")
 
+PREFIX = "TEST2_AGGLO_OS_SIXTINE"
+
 SIXTINE <- list(
   prefix = "SIXTINE",
   user = "admin@opensilex.org",
@@ -14,19 +16,19 @@ SIXTINE <- list(
 )
 
 profvis::profvis({
-  packageless_result <- agglo_mod_os_packageless(SIXTINE$host, SIXTINE$user, SIXTINE$password, SIXTINE$experiments_uri, SIXTINE$scientific_object_type)
+packageless_result <- agglo_mod_os_packageless(SIXTINE$host, SIXTINE$user, SIXTINE$password, SIXTINE$experiments_uri, SIXTINE$scientific_object_type)
 
-  write.csv(
-    packageless_result ,
-    paste0(
-      "data\\TEST_AGGLO_OS_SIXTINE_packageless.csv"
-    ),
-    row.names = FALSE
-  )
+write.csv(
+  packageless_result ,
+  paste0(
+    "data\\", PREFIX, "_packageless.csv"
+  ),
+  row.names = FALSE
+)
 
 
   result <- agglo_mod_os(SIXTINE$host, SIXTINE$user, SIXTINE$password, SIXTINE$experiments_uri, SIXTINE$scientific_object_type)
-  
+
 
   write.csv(
     result ,
