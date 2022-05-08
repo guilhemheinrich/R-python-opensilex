@@ -1,40 +1,36 @@
 source('getToken.R')
 
-agglo_data_import <- function(host,
+agglo_data_import <- function(  host,
                                 user,
                                 password,
                                 experiment_uri,
-                                scientific_object_type, 
-                                variables = c()) {
+                                scientific_object_type #, 
+                                # variables = c()
+                                ) {
   
   # Get all variables if none provided
-  if (is.null(variables)) {
-    token <- getToken(host, user, password)
-    call1 <-
-      paste(
-        host,
-        "/core/data/variables",
-        "?",
-        paste0(
-          "experiments=",
-          URLencode(experiments_uri, reserved = TRUE),
-          collapse = "&"
-        ),
-        "&page_size=10000",
-        sep = ""
-      )
-    
-    get_result <-
-      httr::GET(call1, httr::add_headers(Authorization = token))
-    get_result_text <- httr::content(get_result, "text")
-    get_result_json <-
-      jsonlite::fromJSON(get_result_text, flatten = TRUE)
-    variables_list <- list(uri = get_result_json$result$uri, name = get_result_json$result$name) 
-  } else {
-    variables_list <- variables
-  }
+  # if (is.null(variables)) {
+  #   token <- getToken(host, user, password)
+  #   call1 <-
+  #     paste0(
+  #       host,
+  #       "/core/data/variables",
+  #       "?experiments=",
+  #       URLencode(experiment_uri, reserved = TRUE), 
+  #       "&page_size=10000"
+  #     )
+  #   
+  #   get_result <-
+  #     httr::GET(call1, httr::add_headers(Authorization = token))
+  #   get_result_text <- httr::content(get_result, "text")
+  #   get_result_json <-
+  #     jsonlite::fromJSON(get_result_text, flatten = TRUE)
+  #   variables_list <- list(uri = get_result_json$result$uri, name = get_result_json$result$name) 
+  # } else {
+  #   variables_list <- variables
+  # }
   
-  # Retrieve SO pet type
+  # Retrieve SO per type
   call1 <-
     paste(
       host,
@@ -65,7 +61,8 @@ agglo_data_import <- function(host,
   token <- getToken(host = host,
                     user = user,
                     password = password)
-  call1 <- paste0("https://sixtine.mistea.inrae.fr/rest/core/data/export",
+  call1 <- paste0(host, 
+                  "/core/data/export",
                   "?experiments=",
                   URLencode(experiment_uri, reserved= TRUE),
                   # What we "should" call
