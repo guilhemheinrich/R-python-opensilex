@@ -1,6 +1,6 @@
 library(logging)
 library(opensilexClientToolsR)
-source('getToken.R')
+source("getToken.R")
 
 
 #    _                       _

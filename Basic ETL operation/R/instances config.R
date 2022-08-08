@@ -104,3 +104,27 @@ routine(
   ),
   profiling = TRUE
 )
+
+
+#     _____ _____ _   _ ______ ____  _   _ _____          
+#    / ____|_   _| \ | |  ____/ __ \| \ | |_   _|   /\    
+#   | (___   | | |  \| | |__ | |  | |  \| | | |    /  \   
+#    \___ \  | | | . ` |  __|| |  | | . ` | | |   / /\ \  
+#    ____) |_| |_| |\  | |   | |__| | |\  |_| |_ / ____ \ 
+#   |_____/|_____|_| \_|_|    \____/|_| \_|_____/_/    \_\
+#                                                         
+#    
+
+
+SINFONIA <- list(
+  prefix = "SINFONIA",
+  user = "admin@opensilex.org",
+  password = "5k3CQ7Kue",
+  host = "192.168.0.168:8673/rest",
+  experiments_uri =   c(
+    "sixtine:set/experiments#qualite-du-fruit-2017",
+    "sixtine:set/experiments#resintbio"
+  ),
+  scientific_object_type = "http://www.opensilex.org/vocabulary/oeso#SubPlot"
+)
+

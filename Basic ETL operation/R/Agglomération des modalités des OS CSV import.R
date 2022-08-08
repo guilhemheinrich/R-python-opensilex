@@ -8,7 +8,7 @@ agglo_mod_os_import <- function(host,
   token <- getToken(host = host,
                     user = user,
                     password = password)
-  call1 <- paste0("https://sixtine.mistea.inrae.fr/rest/core/scientific_objects/export")
+  call1 <- paste0(host, "/core/scientific_objects/export")
   post_result <-
     httr::POST(
       call1,
